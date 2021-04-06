@@ -1,0 +1,4 @@
+#!/bin/bash
+cmake -S ../project_src -B . -DCMAKE_BUILD_TYPE=Release
+cmake --build . --config Release
+

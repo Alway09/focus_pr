@@ -1,0 +1,11 @@
+/home/alway/Рабочий стол/pr/project_build/CMakeFiles/rebuild_cache.dir
+/home/alway/Рабочий стол/pr/project_build/CMakeFiles/edit_cache.dir
+/home/alway/Рабочий стол/pr/project_build/core/CMakeFiles/rebuild_cache.dir
+/home/alway/Рабочий стол/pr/project_build/core/CMakeFiles/core.dir
+/home/alway/Рабочий стол/pr/project_build/core/CMakeFiles/edit_cache.dir
+/home/alway/Рабочий стол/pr/project_build/server/CMakeFiles/rebuild_cache.dir
+/home/alway/Рабочий стол/pr/project_build/server/CMakeFiles/server.dir
+/home/alway/Рабочий стол/pr/project_build/server/CMakeFiles/edit_cache.dir
+/home/alway/Рабочий стол/pr/project_build/tests/CMakeFiles/rebuild_cache.dir
+/home/alway/Рабочий стол/pr/project_build/tests/CMakeFiles/tests.dir
+/home/alway/Рабочий стол/pr/project_build/tests/CMakeFiles/edit_cache.dir
